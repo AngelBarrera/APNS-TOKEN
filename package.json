@@ -1,0 +1,11 @@
+{
+
+  "description": "Cordova plugin to get ios apns token",
+  "keywords": [
+    "cordova",
+    "apns token"
+  ],
+  "license": "MIT",
+  "name": "com.vbandrew.apns-token",
+  "version": "0.0.1"
+}
