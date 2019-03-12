@@ -6,6 +6,6 @@
     "apns token"
   ],
   "license": "MIT",
-  "name": "com.vbandrew.apns-token",
-  "version": "0.0.1"
+  "name": "com.niido.apns-token",
+  "version": "0.0.2"
 }
